@@ -1,0 +1,48 @@
+{
+     "queslegend": [
+          "Q1 : Quel est le nom du tout premier joueur francais drafte en NBA ?",
+          "Q2 : Quel joueur argentin tenait un ballon entre le pouce et l'index ?",
+          "Q3 : Qui a ete le premier MVP du All-Star Game ?",
+          "Q4 : Comment la premiere femme a dunker en match s'appelait-elle ?",
+          "Q5 : Joueur de Baseball, j'ai rejoint la NBA et remporte 2 titres a Boston, qui suis-je ?"
+     ],
+     "proplegend": [
+          [
+               "Jean-Claude Lefebvre",
+               "Joakim Noah",
+               "Gerard",
+               "Tony Parker"
+          ],
+          [
+               "Nicolas Brussino",
+               "Luis Scola",
+               "Facundo Campazzo",
+               "Walter Hermann"
+          ],
+          [
+               "Isaiah Thomas",
+               "Larry Bird",
+               "Ed Macauley",
+               "Paul Arizin"
+          ],
+          [
+               "Sabrina Ionescu",
+               "Georgeann Wells",
+               "Arike Ogunbowale",
+               "Liz Cambage"
+          ],
+          [
+               "Danny Ainge",
+               "Jason Tatum",
+               "Gerard",
+               "Derrick White"
+          ]
+     ],
+     "anslegend": [
+          1,
+          4,
+          3,
+          2,
+          1
+     ]
+}

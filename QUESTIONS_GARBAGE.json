@@ -1,0 +1,48 @@
+{
+     "quesgarb": [
+          "Q1 : Quel joueur est surnomme The Beard ?",
+          "Q2 : A quelle distance du cercle est situee la ligne a 3 points en NBA ?",
+          "Q3 : Quel ancien coach des Knicks a ete surnomme le Rat ?",
+          "Q4 : Dans quel sport Joel Embiid etait-il destine a briller avant le Basket ?",
+          "Q5 : Quel temps max pour passer la ligne mediane avec la balle ?"
+     ],
+     "propgarb": [
+          [
+               "Jaylen Brown",
+               "Lebron James",
+               "Evan Fournier",
+               "James Harden"
+          ],
+          [
+               "6.86m",
+               "7.02m",
+               "7.23m",
+               "Beaucoup trop loin pour Rudy !"
+          ],
+          [
+               "Tom Thibodeau",
+               "Kurt Rambis",
+               "Mike Miller",
+               "Pat Riley"
+          ],
+          [
+               "Baseball",
+               "Voleyball",
+               "Football",
+               "MMA"
+          ],
+          [
+               "4 secondes",
+               "8 secondes",
+               "16 secondes",
+               "24 secondes"
+          ]
+     ],
+     "ansgarb": [
+          4,
+          3,
+          4,
+          2,
+          2
+     ]
+}

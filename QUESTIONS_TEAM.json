@@ -1,0 +1,48 @@
+{
+     "questeam": [
+          "Q1 : Dans quel etat jouent les Denver Nuggets lorsqu'ils sont a domicile ?",
+          "Q2 : Combien de fois les Clippers ont-ils ete champion NBA ?",
+          "Q3 : Quelle equipe a drafte Kobe Bryant en 1996 ?",
+          "Q4 : Mark Cuban est le proprietaire de quelle franchise ?",
+          "Q5 : Dans quelle franchise NBA Jack Nicholson est-il le fan numero 1 ?"
+     ],
+     "propteam": [
+          [
+               "Wyoming",
+               "Colorado",
+               "Iowa",
+               "South Dakota"
+          ],
+          [
+               "0",
+               "1",
+               "2",
+               "3"
+          ],
+          [
+               "Los Angeles Lakers",
+               "Denver Nuggets",
+               "Chicago Bulls",
+               "Charlotte Hornets"
+          ],
+          [
+               "Dallas Mavericks",
+               "Phoenix Suns",
+               "Charlotte Hornets",
+               "Utah Jazz"
+          ],
+          [
+               "Brooklyn Nets",
+               "Los Angeles Lakers",
+               "New-York Knicks",
+               "Miami Heat"
+          ]
+     ],
+     "ansteam": [
+          2,
+          1,
+          4,
+          1,
+          2
+     ]
+}

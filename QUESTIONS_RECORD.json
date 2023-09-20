@@ -1,0 +1,48 @@
+{
+     "quesrec": [
+          "Q1 : Quel est le plus petit joueur a avoir gagne un Slam Dunk Contest ?",
+          "Q2 : Quel joueur a termine une saison entiere a 98.1% de reussite\n aux lancers francs ?",
+          "Q3 : Qui est le meilleur rebondeur de l'histoire de la NBA ?",
+          "Q4 : Qui est le meilleur marqueur de l'histoire des Knicks ?",
+          "Q5 : Qui est le meilleur passeur de l'histoire des Suns ?"
+     ],
+     "proprec": [
+          [
+               "Edgar Jones",
+               "Roy Hinson",
+               "Spud Webb",
+               "Paul George"
+          ],
+          [
+               "Larry Bird",
+               "Rick Barry",
+               "Jose Calderon",
+               "Kyle Korver"
+          ],
+          [
+               "Gerard",
+               "Karl Malone",
+               "Wilt Chamberlain",
+               "Kareem Abdul-Jabbar"
+          ],
+          [
+               "Kemba Walker",
+               "Evan Fournier",
+               "Julius Randle",
+               "Patrick Ewing"
+          ],
+          [
+               "Chris Paul",
+               "Steve Nash",
+               "Devin Booker",
+               "Charles Barkley"
+          ]
+     ],
+     "ansrec": [
+          3,
+          3,
+          3,
+          4,
+          2
+     ]
+}
